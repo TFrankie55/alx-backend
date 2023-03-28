@@ -3,7 +3,7 @@ import { createQueue } from 'kue';
 const queue = createQueue();
 
 const notification = {
-  'phoneNumber': '08169455920',
+  'phoneNumber': '4153518780',
   'message': 'This is the code to verify your account'
 }
 
